@@ -1,0 +1,9 @@
+#zoom{
+    height:500px;
+    width:402px;
+    margin:50px auto
+}
+#canvas{
+    margin-top:20px;
+    border:1px solid #ccc
+}

@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0
+}
+#canvas{
+    margin:10px 0 0 50px;
+    border:1px solid #ccc;
+    float:left;
+}
+#sureBtn{
+    display:block;
+    width:100px;
+    height:30px;
+    line-height:30px;
+    border-radius:8px;
+    background-color:#8EA2AF;
+    margin:100px 0 0 50px;
+    text-align:center;
+    font-family:'microsoft yahei';
+    cursor:pointer
+}
+#result{
+    display:block
+}
+#resultWrap{
+    margin-left:10px;
+    display:none;
+}
